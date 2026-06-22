@@ -1,5 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
 gradio==5.49.1
-torch
 pandas
 numpy
 scikit-learn
